@@ -7,7 +7,7 @@
     "Sickness_med": 20.6,
     "Starvation": 6.6,
     "Unknown": 3.6,
-    "Vehicle": 7.1,
+    "Vehicle": 7.1
   },
   {
     "Region": "Mediterranean",
@@ -16,7 +16,7 @@
     "Sickness_med": 0.1,
     "Starvation": 0,
     "Unknown": 7.8,
-    "Vehicle": 0,
+    "Vehicle": 0
   },
   {
     "Region": "North",
@@ -25,7 +25,7 @@
     "Sickness_med": 53.6,
     "Starvation": 25.1,
     "Unknown": 5,
-    "Vehicle": 14.5,
+    "Vehicle": 14.5
   },
   {
     "Region": "Sub-Saharan",
@@ -34,7 +34,7 @@
     "Sickness_med": 23.8,
     "Starvation":5,
     "Unknown": 6.6,
-    "Vehicle": 28.5,
+    "Vehicle": 28.5
   },
   {
     "Region": "USMex",
@@ -43,6 +43,6 @@
     "Sickness_med": 0.3,
     "Starvation": 0,
     "Unknown": 65.6,
-    "Vehicle": 5.2,
+    "Vehicle": 5.2
   }
 ]
