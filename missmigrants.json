@@ -37,7 +37,7 @@
   },
   {
     "Region": "USMex",
-    "sex": "male",
+    "sex":  "male",
     "Drowning": 28.8,
     "Sickness_med": 0.3,
     "Starvation": 0,
