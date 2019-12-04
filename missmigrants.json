@@ -7,17 +7,15 @@
     "Starvation": 6.6,
     "Unknown": 3.6,
     "Vehicle": 7.1,
-    "Total": 778
   },
   {
     "Region": "Mediterranean",
     "sex": "female",
     "Drowning": 92,
-    "Sickness_med": .089,
+    "Sickness_med": .1,
     "Starvation": 0,
     "Unknown": 7.8,
     "Vehicle": 0,
-    "Total": 5605
   },
   {
     "Region": "North",
@@ -27,26 +25,23 @@
     "Starvation": 25.1,
     "Unknown": 5,
     "Vehicle": 14.5,
-    "Total": 2772
   },
   {
     "Region": "Sub-Saharan",
     "sex": "female",
     "Drowning": 35.8,
-    "Sickness_med": 23.89,
+    "Sickness_med": 23.8,
     "Starvation":5,
     "Unknown": 6.6,
     "Vehicle": 28.5,
-    "Total": 1067
   },
   {
     "Region": "USMex",
     "sex": "female",
-    "Drowning": 28.79,
-    "Sickness_med": .34,
+    "Drowning": 28.8,
+    "Sickness_med": .3,
     "Starvation": 0,
     "Unknown": 65.6,
     "Vehicle": 5.2,
-    "Total": 1153
   }
 ]
